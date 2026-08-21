@@ -2,6 +2,11 @@
 
 Litter is a simple GUI app to keep track of books you have read.
 
+To run the app with python3, please install customtkinter:
+```
+pip install customtkinter
+```
+
 *Note:* If you want a special icon for the window, please put the .ico file of your desire to the path it created, which is:
 > /home/<USER\>/litter/
 
